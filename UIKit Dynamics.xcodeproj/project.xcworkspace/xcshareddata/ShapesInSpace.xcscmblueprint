@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "701DBB63B0B562CE099632DE609F1F168EE96044",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "701DBB63B0B562CE099632DE609F1F168EE96044" : 0,
+    "DED41797E01007DE68B267AF8045F9363A7DF29B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EDD6AC0A-970A-4A7D-AFD7-31431C3CDEAC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "701DBB63B0B562CE099632DE609F1F168EE96044" : "Raywenderlich%20iOS_7",
+    "DED41797E01007DE68B267AF8045F9363A7DF29B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShapesInSpace",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Section_1\/ShapesInSpace\/ShapesInSpace.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/tikhonov_\/raywenderlich-ios_7.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "701DBB63B0B562CE099632DE609F1F168EE96044"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/tikhonov_\/mercury.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DED41797E01007DE68B267AF8045F9363A7DF29B"
+    }
+  ]
+}

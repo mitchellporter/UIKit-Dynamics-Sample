@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDD6AC0A-970A-4A7D-AFD7-31431C3CDEAC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShapesInSpace</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>701DBB63B0B562CE099632DE609F1F168EE96044</key>
+		<string>https://bitbucket.org/tikhonov_/raywenderlich-ios_7.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Section_1/ShapesInSpace/ShapesInSpace.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>701DBB63B0B562CE099632DE609F1F168EE96044</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/tikhonov_/raywenderlich-ios_7.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>701DBB63B0B562CE099632DE609F1F168EE96044</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>701DBB63B0B562CE099632DE609F1F168EE96044</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Raywenderlich%20iOS_7</string>
+		</dict>
+	</array>
+</dict>
+</plist>

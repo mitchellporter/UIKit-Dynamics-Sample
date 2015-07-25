@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ShapesInSpace.SpaceBackgroundView.(addItem in _13ABC41CC12E84C9FBEBFD639C5E4369) (ShapesInSpace.SpaceBackgroundView)(ObjectiveC.UIView) -&gt; ():SpaceBackgroundView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dynamic.items">
+            </PersistentString>
+            <PersistentString
+               value = "self.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShapesInSpace.SpaceBackgroundView.(changeCollisionBehaviorWithFrame in _13ABC41CC12E84C9FBEBFD639C5E4369) (ShapesInSpace.SpaceBackgroundView)(ObjectiveC.UIView) -&gt; ():SpaceBackgroundView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShapesInSpace.SpaceBackgroundView.handlePan (ShapesInSpace.SpaceBackgroundView)(ObjectiveC.UIPanGestureRecognizer) -&gt; ():SpaceBackgroundView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "animator.behaviors">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShapesInSpace.SpaceBackgroundView.(removeItem in _13ABC41CC12E84C9FBEBFD639C5E4369) (ShapesInSpace.SpaceBackgroundView)(ObjectiveC.UIView) -&gt; ():SpaceBackgroundView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collision.items">
+            </PersistentString>
+            <PersistentString
+               value = "dynamic.items">
+            </PersistentString>
+            <PersistentString
+               value = "self.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "function signature specialization &lt;Arg[1] = Dead, Arg[2] = Value Promoted from InOut&gt; of ShapesInSpace.SpaceBackgroundView.((generateRects in _13ABC41CC12E84C9FBEBFD639C5E4369) (ShapesInSpace.SpaceBackgroundView) -&gt; (C.CGPoint, side : CoreGraphics.CGFloat, color : ObjectiveC.UIColor) -&gt; ()).(closure #2):SpaceBackgroundView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "animator.behaviors">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShapesInSpace.SpaceViewController.(configureViewController in _C01E737E1314E57017337238F66EFF1B) (ShapesInSpace.SpaceViewController)() -&gt; ():SpaceViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "square.frame">
+            </PersistentString>
+            <PersistentString
+               value = "externalSquare.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShapesInSpace.SpaceViewController.viewDidLayoutSubviews (ShapesInSpace.SpaceViewController)() -&gt; ():SpaceViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShapesInSpace.SpaceBackgroundView.(generateRects in _13ABC41CC12E84C9FBEBFD639C5E4369) (ShapesInSpace.SpaceBackgroundView)(C.CGPoint, side : CoreGraphics.CGFloat, color : ObjectiveC.UIColor) -&gt; ():SpaceBackgroundView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "animator.behaviors">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShapesInSpace.ViewController.prepareForSegue (ShapesInSpace.ViewController)(ObjectiveC.UIStoryboardSegue, sender : Swift.Optional&lt;Swift.AnyObject&gt;) -&gt; ():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShapesInSpace.SpaceBackgroundView.((generateRects in _13ABC41CC12E84C9FBEBFD639C5E4369) (ShapesInSpace.SpaceBackgroundView) -&gt; (C.CGPoint, side : CoreGraphics.CGFloat, color : ObjectiveC.UIColor) -&gt; ()).(closure #2).(closure #1):SpaceBackgroundView.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
